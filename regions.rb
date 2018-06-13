@@ -32,5 +32,5 @@ class Regions < Pokeworld
 
 end
 
-Regions.kanto
-Regions.alola
+# Regions.kanto
+# Regions.alola
